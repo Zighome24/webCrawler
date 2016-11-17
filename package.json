@@ -1,0 +1,13 @@
+{
+  "name": "visualization-navigable-links",
+  "version": "0.0.2",
+  "description": "A web crawler that visits all of the navigable links on a webpage and records them for visualization later on.",
+  "main": "crawler.js",
+  "author": "Justin Ziegler",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "url-parse": "^1.1.7",
+    "request": "^2.78.0"
+  }
+}
